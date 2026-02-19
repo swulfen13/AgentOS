@@ -41,7 +41,7 @@ macOS
 Windows (planned)
 
 🚀 Quick Start
-git clone https://github.com/yourname/agentOS
+git clone https://github.com/swulfen13/agentOS
 cd agentOS
 agentos init
 agentos run
